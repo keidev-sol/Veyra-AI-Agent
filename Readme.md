@@ -1,6 +1,6 @@
-# Solana AI Agent — Vera
+# Solana AI Agent — veyra
 
-Vera is a Solana AI Agent built for fast, friendly on‑chain actions.
+veyra is a Solana AI Agent built for fast, friendly on‑chain actions.
 It combines an AI chat experience with a secure execution layer to make
 Solana operations simple and accessible for everyone.
 
@@ -11,7 +11,7 @@ AI chat interface paired with a secure Solana execution backend.
 
 ## Product Vision
 
-Vera removes friction from Web3.
+veyra removes friction from Web3.
 It replaces complex steps with a friendly, guided AI conversation.
 The goal is to make Solana operations feel as easy as a regular app.
 
@@ -31,7 +31,7 @@ Users do not need to manually sign or confirm every step.
 
 ## AI‑First Experience
 
-Vera is not just a chatbot—it is an execution layer.
+veyra is not just a chatbot—it is an execution layer.
 Users interact naturally and the system handles the entire flow.
 
 Key outcomes:
@@ -80,7 +80,7 @@ The AI gathers name, symbol, description, and image details.
 
 ## Safety & Trust
 
-Vera uses Privy for secure wallet handling and user experience.
+veyra uses Privy for secure wallet handling and user experience.
 
 Principles:
 
@@ -88,7 +88,7 @@ Principles:
 - **User flow is safe and guided**
 - **Operations are executed with clear confirmations**
 
-Vera prioritizes safety without sacrificing simplicity.
+veyra prioritizes safety without sacrificing simplicity.
 
 ---
 
@@ -96,16 +96,16 @@ Vera prioritizes safety without sacrificing simplicity.
 
 1. User opens the app
 2. Connects wallet via Privy
-3. Chats naturally with Vera
-4. Vera gathers any missing details
-5. Vera executes the operation
+3. Chats naturally with veyra
+4. veyra gathers any missing details
+5. veyra executes the operation
 6. User receives friendly success/failure feedback
 
 ---
 
 ## Designed for Real Users
 
-Vera focuses on experience quality:
+veyra focuses on experience quality:
 
 - Clean and modern UI
 - Smooth motion and transitions
@@ -118,7 +118,7 @@ Vera focuses on experience quality:
 ## Built for Solana
 
 Solana is fast, composable, and scalable.
-Vera embraces Solana‑native standards and verified NFT collections.
+veyra embraces Solana‑native standards and verified NFT collections.
 
 ---
 
@@ -206,5 +206,5 @@ This ensures compatibility with major marketplaces.
 .
 .
 
-Vera delivers a clean, friendly, and secure Solana experience.
+veyra delivers a clean, friendly, and secure Solana experience.
 It is designed to feel natural for users and reliable for real adoption.
